@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<Document>
+<wallpaper-info>
+    <country-id>TH</country-id>
+    <path>default/wallpaper04.webp</path>
+    <path>default/wallpaper05.webp</path>
+    <path>default/wallpaper06.webp</path>
+</wallpaper-info>
+<wallpaper-info>
+    <country-id>default</country-id>
+    <path>default/wallpaper01.webp</path>
+    <path>default/wallpaper02.webp</path>
+    <path>default/wallpaper03.webp</path>
+</wallpaper-info>
+</Document>

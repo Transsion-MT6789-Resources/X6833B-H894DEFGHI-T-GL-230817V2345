@@ -1,0 +1,54 @@
+7767517
+52 65
+Input            decoder_input            0 1 decoder_input
+Input            attention_context        0 1 attention_context
+Split            splitncnn_input1         1 2 attention_context attention_context_splitncnn_0 attention_context_splitncnn_1
+Input            attention_weights_cum    0 1 attention_weights_cum
+Split            splitncnn_input2         1 2 attention_weights_cum attention_weights_cum_splitncnn_0 attention_weights_cum_splitncnn_1
+Input            h0                       0 1 h0
+Input            c0                       0 1 c0
+Input            h1                       0 1 h1
+Input            c1                       0 1 c1
+Input            memory                   0 1 memory
+Split            splitncnn_input7         1 2 memory memory_splitncnn_0 memory_splitncnn_1
+MemoryData       249                      0 1 249 0=1
+MemoryData       tacotron2.decoder.prenet.mask 0 1 tacotron2.decoder.prenet.mask 0=128
+Split            splitncnn_0              1 2 tacotron2.decoder.prenet.mask tacotron2.decoder.prenet.mask_splitncnn_0 tacotron2.decoder.prenet.mask_splitncnn_1
+InnerProduct     Gemm_0                   1 1 decoder_input 99 0=128 1=1 2=10240
+ReLU             Relu_1                   1 1 99 100
+BinaryOp         Mul_2                    2 1 100 tacotron2.decoder.prenet.mask_splitncnn_1 101 0=2
+InnerProduct     Gemm_3                   1 1 101 102 0=128 1=1 2=16384
+ReLU             Relu_4                   1 1 102 103
+BinaryOp         Mul_5                    2 1 103 tacotron2.decoder.prenet.mask_splitncnn_0 104 0=2
+Concat           Concat_6                 2 1 104 attention_context_splitncnn_1 105 0=0
+ExpandDims       Unsqueeze_7              1 1 105 106 -23303=1,1
+Permute          Transpose_8              1 1 106 107
+LSTM             LSTM_9                   3 3 107 h0 c0 lstm_9_dummy_out out_h0 out_c0 0=512 1=786432 2=0
+ExpandDims       Unsqueeze_10             1 1 attention_context_splitncnn_0 168 -23303=1,1
+Concat           Concat_11                2 1 out_h0 168 169 0=1
+Permute          Transpose_12             1 1 169 170
+LSTM             LSTM_13                  3 3 170 h1 c1 lstm_13_dummy_out out_h1 out_c1 0=512 1=1572864 2=0
+Squeeze          Squeeze_14               1 1 out_h1 231 -23303=1,1
+Split            splitncnn_1              1 2 231 231_splitncnn_0 231_splitncnn_1
+ExpandDims       Unsqueeze_15             1 1 attention_weights_cum_splitncnn_1 232 -23303=1,1
+Squeeze          Squeeze_16               1 1 memory_splitncnn_1 233 -23303=1,0
+BatchInnerProduct     Gemm_17                  1 1 233 234 0=128 1=1 2=32768
+InnerProduct     Gemm_18                  1 1 231_splitncnn_1 235 0=128 1=1 2=65536
+ExpandDims       Unsqueeze_19             1 1 232 236 -23303=1,2
+Convolution      Conv_20                  1 1 236 237 0=32 1=31 11=1 2=1 12=1 3=1 13=1 4=15 14=0 15=15 16=0 5=1 6=992
+Squeeze          Squeeze_21               1 1 237 238 0=1 1=1 2=1
+Permute          Transpose_22             1 1 238 239 0=1
+BatchInnerProduct     MatMul_23                1 1 239 241 0=128 1=0 2=4096
+Add3TanhFusion         Add_25                   3 1 234 241 235 244 0=0
+BatchInnerProduct     Gemm_27                  1 1 244 245 0=1 1=1 2=128
+Permute          Transpose_28             1 1 245 246 0=1
+Softmax          Softmax_29               1 1 246 attention_weights 0=1 1=1
+Split            splitncnn_2              1 2 attention_weights attention_weights_splitncnn_0 attention_weights_splitncnn_1
+Squeeze          Squeeze_30               1 1 memory_splitncnn_0 248 -23303=1,0
+Gemm             Gemm_32                  2 1 attention_weights_splitncnn_1 248 out_attention_context 0=1.000000e+00 1=0.000000e+00 2=0 3=0
+BinaryOp         Add_33                   2 1 attention_weights_cum_splitncnn_0 attention_weights_splitncnn_0 out_attention_weights_cum 0=0
+Concat           Concat_34                2 1 231_splitncnn_0 out_attention_context 252 0=-2
+Split            splitncnn_3              1 2 252 252_splitncnn_0 252_splitncnn_1
+InnerProduct     Gemm_35                  1 1 252_splitncnn_1 mel_output 0=240 1=1 2=184320
+InnerProduct     Gemm_36                  1 1 252_splitncnn_0 254 0=3 1=1 2=2304
+Sigmoid          Sigmoid_37               1 1 254 gate_output

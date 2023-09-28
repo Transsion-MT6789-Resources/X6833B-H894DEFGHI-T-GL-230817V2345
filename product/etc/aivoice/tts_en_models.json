@@ -1,0 +1,22 @@
+{
+    "root_path": "/product/etc/aivoice/en_tts",
+    "acoustic_model_path": "tacotron2_step3_450epochs_clip_50_all",
+    "hifi_model_path": "hifi_gen_v2.1_fp16",
+    "acoustic_param": {
+        "gate_threshold": 0.5,
+        "max_decoder_steps": 1200,
+        "n_mel_channels": 80,
+        "n_frames_per_step": 3,
+        "decoder_rnn_dim": 512
+    },
+    "mel_param": {
+        "max_wav_value": 32768.0,
+        "sampling_rate": 22050
+    },
+    "num_threads": 1,
+    "light_mode": true,
+    "bigcore_only": false,
+    "acoustic_model_use_gpu": false,
+    "hifi_model_use_gpu": false,
+    "useHausaModel": false
+}

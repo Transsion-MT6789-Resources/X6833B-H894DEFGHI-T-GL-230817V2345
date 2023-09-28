@@ -1,0 +1,5 @@
+{
+    "graph" : "nlu_en.mnn",
+    "data" : "nlu_en.data",
+    "config" : "nlu_en_dataset.json"
+}

@@ -1,0 +1,40 @@
+{
+  "version": "1.0.10",
+  "enabledSleepMaster": true,
+  "enabledAbnormalHandler": true,
+  "enabledForceStop": true,
+  "enabledForegroundForceStop": true,
+  "enabledForegroundForceRemoveWl": true,
+  "foregroundTopForceStopInterval": 60,
+  "enabledTopForegroundForceStop": true,
+  "blackPackages": [
+        "com.jingyao.easybike",
+        "com.clean.oneboost.cleaner.onebooster.security",
+        "com.cleaner.fastcleaner.booster.security.clean",
+        "com.roblox.client",
+        "com.tencent.lolm",
+        "tv.africa.streaming",
+        "com.tencent.tmgp.pubgmhd",
+        "com.tencent.ig"
+  ],
+  "forceStopPackages": [
+        "com.clean.oneboost.cleaner.onebooster.security",
+        "com.cleaner.fastcleaner.booster.security.clean",
+        "com.tencent.android.qqdownloader",
+        "com.roblox.client",
+        "com.tencent.lolm",
+        "tv.africa.streaming",
+        "com.tencent.tmgp.pubgmhd",
+        "com.tencent.ig"
+  ],
+  "forceStopForegroundPackages": [
+      "com.roblox.client"
+  ],
+  "forceRemoveWlForegroundPackages": [
+  ],
+  "forceStopTopForegroundPackages": [
+        "com.tencent.tmgp.pubgmhd",
+        "com.tencent.ig",
+        "com.tencent.lolm"
+  ]
+}

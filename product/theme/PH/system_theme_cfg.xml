@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<Document>
+    <theme-info>
+        <id>-99</id>
+        <name>Mobile Legends 2023</name>
+        <filename>Xtheme_Moble_Legends_2023.apk</filename>
+        <string-id>XOS_Moble_Legends_2023</string-id>
+        <filepath>product/theme/Xtheme_Moble_Legends_2023/Xtheme_Moble_Legends_2023.apk</filepath>
+    </theme-info>
+    <theme-info>
+        <id>-10</id>
+        <name>Geometric Fashion</name>
+        <filename>Xtheme.apk</filename>
+        <string-id>XOS_Geometric_Fashion</string-id>
+        <filepath>product/theme/Xtheme/Xtheme.apk</filepath>
+    </theme-info>
+    <theme-info>
+        <id>-11</id>
+        <name>M Power</name>
+        <filename>Xtheme_Power.apk</filename>
+        <string-id>XOS_Power</string-id>
+        <filepath>product/theme/Xtheme_Power/Xtheme_Power.apk</filepath>
+    </theme-info>
+    <theme-info>
+        <id>-12</id>
+        <name>Future Technology</name>
+        <filename>Xtheme_Future_Technology.apk</filename>
+        <string-id>XOS_Future_Technology</string-id>
+        <filepath>product/theme/Xtheme_Future_Technology/Xtheme_Future_Technology.apk</filepath>
+    </theme-info>
+</Document>

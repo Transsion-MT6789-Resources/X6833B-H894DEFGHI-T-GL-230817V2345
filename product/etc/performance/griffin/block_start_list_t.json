@@ -1,0 +1,17 @@
+{
+  "version":2,
+  "product":"default",
+  "up_time": 20221228,
+  "block_enable":true,
+  "block_start":[
+    "com.oneapp.max.cleaner.booster",
+    "com.cleanmaster.mguard",
+    "com.antivirus.speed.cleaner",
+    "com.rocket.cleaner.app",
+    "com.rocket.tools.clean.antivirus.master",
+    "com.hyperspeed.rocketclean.pro",
+    "com.oneapp.max.security.pro",
+    "com.ludashi.dualspace",
+    "com.tencent.android.qqdownloader"
+  ]
+}

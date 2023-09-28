@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--TDD: add CMSFTASK-265 by pei.zhou 2021123 start  -->
+
+<voicemail>
+<voicemail numeric="65501" carrier="Vodacom" vmnumber="132" vmtag="" />
+<voicemail numeric="334020" carrier="TELCEL" vmnumber="*86" vmtag="" />
+<voicemail numeric="72402" carrier="TIM" vmnumber="*100" vmtag="" />
+<voicemail numeric="72403" carrier="TIM" vmnumber="*100" vmtag="" />
+<voicemail numeric="72404" carrier="TIM" vmnumber="*100" vmtag="" />
+<voicemail numeric="72408" carrier="TIM" vmnumber="*100" vmtag="" />
+<voicemail numeric="72405" carrier="Claro" vmnumber="*555" vmtag="" />
+<voicemail numeric="72416" carrier="Oi" vmnumber="*100" vmtag="" />
+<voicemail numeric="72431" carrier="Oi" vmnumber="*100" vmtag="" />
+<voicemail numeric="72406" carrier="Vivo" vmnumber="*555" vmtag="" />
+<voicemail numeric="72410" carrier="Vivo" vmnumber="*555" vmtag="" />
+<voicemail numeric="72411" carrier="Vivo" vmnumber="*555" vmtag="" />
+<voicemail numeric="72423" carrier="Vivo" vmnumber="*555" vmtag="" />
+<voicemail numeric="72439" carrier="Nextel" vmnumber="*100" vmtag="" />
+<!--TDD: add voicemail number for XLBELHQQS-3796 by gaoming.luo 20220518 start -->
+<voicemail numeric="51009" carrier="Smartfren4G" vmnumber="*88" vmtag="" />
+<voicemail numeric="51028" carrier="Smartfren4G" vmnumber="*88" vmtag="" />
+<!--TDD: add voicemail number for XLBELHQQS-3796 by gaoming.luo 20220518 end -->
+<!--TDD: add voicemail number for CIBHBYL-4178 by gaoming.luo 20220714 start -->
+<voicemail numeric="21901" carrier="HT HR" vmnumber="+38598151100" vmtag="" />
+<!--TDD: add voicemail number for CIBHBYL-4178 by gaoming.luo 20220714 end -->
+<!--TDD: add voicemail number for CIBHBYL-4178 by gaoming.luo 20220721 start -->
+<voicemail numeric="74404" carrier="Tigo" vmnumber="*98" vmtag="" />
+<!--TDD: add voicemail number for CIBHBYL-4178 by gaoming.luo 20220721 end -->
+<!--TDD: add voicemail number for CHLSCOH-37 by gaoming.luo 20220801 start -->
+<voicemail numeric="70401" carrier="CLARO" vmnumber="*80" vmtag="" />
+<voicemail numeric="70601" carrier="CLARO" vmnumber="*80" vmtag="" />
+<voicemail numeric="71203" carrier="CLARO" vmnumber="*80" vmtag="" />
+<voicemail numeric="708001" carrier="CLARO" vmnumber="*80" vmtag="" />
+<voicemail numeric="71021" carrier="CLARO" vmnumber="*80" vmtag="" />
+<voicemail numeric="71403" carrier="CLARO" vmnumber="*111" vmtag="" />
+<!--TDD: add voicemail number for CHLSCOH-37 by gaoming.luo 20220801 end -->
+
+<!--TDD: add CMSFTASK-465 by pei.zhou 20220803 start  -->
+<voicemail numeric="72231" carrier="Claro" vmnumber="*2747" vmtag="" />
+<voicemail numeric="722310" carrier="Claro AR" vmnumber="*2747" vmtag="" />
+<voicemail numeric="74810" carrier="CLARO UY" vmnumber="*2747" vmtag="" />
+<voicemail numeric="74402" carrier="Claro PY" vmnumber="*555" vmtag="" />
+<voicemail numeric="70611" carrier="Claro" vmnumber="*80" vmtag="" />
+<voicemail numeric="73003" carrier="Claro" vmnumber="*20" vmtag="" />
+<voicemail numeric="732101" carrier="Claro" vmnumber="*123" vmtag="" />
+<voicemail numeric="71610" carrier="Claro" vmnumber="131" vmtag="" />
+<voicemail numeric="74001" carrier="Claro" vmnumber="#99" vmtag="" />
+<voicemail numeric="330110" carrier="Claro" vmnumber="*86" vmtag="" />
+<voicemail numeric="37002" carrier="Claro" vmnumber="*99" vmtag="" />
+<voicemail numeric="70402" carrier="TIGO" vmnumber="*77" vmtag="" />
+<voicemail numeric="70603" carrier="TIGO" vmnumber="*80" vmtag="" />
+<voicemail numeric="70802" carrier="TIGO" vmnumber="*90" vmtag="" />
+<voicemail numeric="708002" carrier="TIGO" vmnumber="*90" vmtag="" />
+<voicemail numeric="714020" carrier="TIGO" vmnumber="*86" vmtag="" />
+<voicemail numeric="732111" carrier="TIGO" vmnumber="*123" vmtag="" />
+<voicemail numeric="73603" carrier="TIGO" vmnumber="*123" vmtag="" />
+<!--TDD: add CMSFTASK-465 by pei.zhou 20220803 end  -->
+<!--TDD: add voicemail number for ADJHBSY-7331 by wenlin.xiao 20221008 start  -->
+<voicemail numeric="22601" carrier="RO Vodafone" vmnumber="+40722033334" vmtag="" />
+<!--TDD: add voicemail number for ADJHBSY-7331 by wenlin.xiao 20221008 end  -->
+<!-- TDD:add voicemail number for KIQSHL-48 by pei.zhou at 20230207 start -->
+<voicemail numeric="732103" carrier="TIGO" vmnumber="*123" vmtag="" />
+<voicemail numeric="71402" carrier="TIGO" vmnumber="*86" vmtag="" />
+<voicemail numeric="71030" carrier="TIGO" vmnumber="*86" vmtag="" />
+<voicemail numeric="710300" carrier="TIGO" vmnumber="*86" vmtag="" />
+<!-- TDD:add voicemail number for KIQSHL-48 by pei.zhou at 20230207 end -->
+<!-- TDD:add voicemail number for antel by pei.zhou at 20230705 start -->
+<voicemail numeric="74801" carrier="Antel" vmnumber="*66" vmtag="" />
+<!-- TDD:add voicemail number for antel by pei.zhou at 20230705 end -->
+<!-- TDD:add voicemail number for TeleKOM Romania by pei.zhou at 20230725 start -->
+<voicemail numeric="22603" carrier="Telekom" vmnumber="177" vmtag="" />
+<!-- TDD:add voicemail number for TeleKOM Romania by pei.zhou at 20230725 end -->
+</voicemail>
+<!--TDD: add CMSFTASK-265 by pei.zhou 2021123 end  -->

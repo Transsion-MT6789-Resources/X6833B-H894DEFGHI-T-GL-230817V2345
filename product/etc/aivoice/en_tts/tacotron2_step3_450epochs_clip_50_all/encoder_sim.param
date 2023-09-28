@@ -1,0 +1,14 @@
+7767517
+12 14
+Input            sequences                0 1 sequences
+Permute          Transpose_0              1 1 sequences 30 0=4
+ExpandDims       Unsqueeze_1              1 1 30 31 -23303=1,2
+Convolution      Conv_2                   1 1 31 177 0=256 1=5 11=1 2=1 12=1 3=1 13=1 4=2 14=0 15=2 16=0 5=1 6=655360
+ReLU             Relu_3                   1 1 177 34
+Convolution      Conv_4                   1 1 34 180 0=256 1=5 11=1 2=1 12=1 3=1 13=1 4=2 14=0 15=2 16=0 5=1 6=327680
+ReLU             Relu_5                   1 1 180 37
+Convolution      Conv_6                   1 1 37 183 0=256 1=5 11=1 2=1 12=1 3=1 13=1 4=2 14=0 15=2 16=0 5=1 6=327680
+ReLU             Relu_7                   1 1 183 40
+Squeeze          Squeeze_8                1 1 40 41 -23303=1,2
+Permute          Transpose_16             1 1 41 53 0=1
+LSTM             LSTM_17                  1 3 53 memory 171 172 0=128 1=262144 2=2

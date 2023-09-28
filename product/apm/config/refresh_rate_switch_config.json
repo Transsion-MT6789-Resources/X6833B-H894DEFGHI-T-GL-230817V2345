@@ -1,0 +1,9 @@
+{
+  "major_version":2,
+  "minor_version":1000,
+  "update_time":20220801,
+  "input_method_switch": true,
+  "navigation_switch": true,
+  "video_switch": true,
+  "audio_switch": true
+}

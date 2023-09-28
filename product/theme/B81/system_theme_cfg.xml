@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<Document>
+<theme-info>
+    <id>-99</id>
+    <name>Interstellar Blue</name>
+    <filename>Xtheme_B81.apk</filename>
+    <string-id>XOS_Interstellar_Blue</string-id>
+    <filepath>product/theme/Xtheme_B81/Xtheme_B81.apk</filepath>
+</theme-info>
+<theme-info>
+    <id>-10</id>
+    <name>M Power</name>
+    <filename>Xtheme_Power.apk</filename>
+    <string-id>XOS_Power</string-id>
+    <filepath>product/theme/Xtheme_Power/Xtheme_Power.apk</filepath>
+</theme-info>
+<theme-info>
+    <id>-11</id>
+    <name>Cyberpunk</name>
+    <filename>Xtheme_Cyberpunk.apk</filename>
+    <string-id>XOS_Cyberpunk</string-id>
+    <filepath>product/theme/Xtheme_Cyberpunk/Xtheme_Cyberpunk.apk</filepath>
+</theme-info>
+</Document>

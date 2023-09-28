@@ -1,0 +1,1288 @@
+\data\
+ngram 1=220
+ngram 2=537
+ngram 3=799
+
+\1-grams:
+-2.5709925	<unk>	0
+0	<s>	-1.3904198
+-1.2054702	</s>	0
+-1.3937318	call	-1.6
+-1.3937318	wifi	-1.6
+-1.3937318	abeg	-1.6
+-1.3937318	kukuma	-1.6
+-1.3937318	wan	-1.6
+-1.3937318	ring	-1.6
+-1.3937318	word	-1.6
+-1.3937318	oya	-1.6
+-1.3937318	dey	-1.6
+-1.3937318	press	-1.6
+-1.3937318	follow	-1.6
+-1.3937318	try	-1.6
+-1.3937318	yan	-1.6
+-1.3937318	fone	-1.6
+-1.3937318	phone	-1.6
+-1.3937318	for	-1.6
+-1.3937318	me	-1.6
+-1.3937318	please	-1.6
+-1.3937318	now	-1.6
+-1.3937318	just	-1.6
+-1.3937318	i	-1.6
+-1.3937318	wanna	-1.6
+-1.3937318	dail	-1.6
+-1.3937318	contact	-1.6
+-1.3937318	reach	-1.6
+-1.3937318	get	-1.6
+-1.3937318	give	-1.6
+-1.3937318	in	-1.6
+-1.3937318	touch	-1.6
+-1.3937318	with	-1.6
+-1.3937318	make	-1.6
+-1.3937318	a	-1.6
+-1.3937318	to	-1.6
+-1.3937318	could	-1.6
+-1.3937318	you	-1.6
+-1.3937318	can	-1.6
+-1.3937318	help	-1.6
+-1.3937318	dial	-1.6
+-1.3937318	number	-1.6
+-1.3937318	i'd	-1.6
+-1.3937318	like	-1.6
+-1.3937318	want	-1.6
+-1.3937318	what	-1.6
+-1.3937318	is	-1.6
+-1.3937318	show	-1.6
+-1.3937318	look	-1.6
+-1.3937318	up	-1.6
+-1.3937318	search	-1.6
+-1.3937318	book	-1.6
+-1.3937318	tell	-1.6
+-1.3937318	what's	-1.6
+-1.3937318	let	-1.6
+-1.3937318	know	-1.6
+-1.3937318	the	-1.6
+-1.3937318	check	-1.6
+-1.3937318	mobile	-1.6
+-1.3937318	cell	-1.6
+-1.3937318	telephone	-1.6
+-1.3937318	send	-1.6
+-1.3937318	message	-1.6
+-1.3937318	about	-1.6
+-1.3937318	my	-1.6
+-1.3937318	deliver	-1.6
+-1.3937318	inform	-1.6
+-1.3937318	of	-1.6
+-1.3937318	plan	-1.6
+-1.3937318	update	-1.6
+-1.3937318	changes	-1.6
+-1.3937318	text	-1.6
+-1.3937318	by	-1.6
+-1.3937318	card	-1.6
+-1.3937318	one	-1.6
+-1.3937318	two	-1.6
+-1.3937318	three	-1.6
+-1.3937318	four	-1.6
+-1.3937318	five	-1.6
+-1.3937318	simcard	-1.6
+-1.3937318	first	-1.6
+-1.3937318	second	-1.6
+-1.3937318	third	-1.6
+-1.3937318	fourth	-1.6
+-1.3937318	fifth	-1.6
+-1.3937318	open	-1.6
+-1.3937318	app	-1.6
+-1.3937318	boot	-1.6
+-1.3937318	launch	-1.6
+-1.3937318	turn	-1.6
+-1.3937318	on	-1.6
+-1.3937318	start	-1.6
+-1.3937318	put	-1.6
+-1.3937318	us	-1.6
+-1.3937318	need	-1.6
+-1.3937318	social	-1.6
+-1.3937318	gaming	-1.6
+-1.3937318	news	-1.6
+-1.3937318	shopping	-1.6
+-1.3937318	entertainment	-1.6
+-1.3937318	finance	-1.6
+-1.3937318	life	-1.6
+-1.3937318	tools	-1.6
+-1.3937318	version	-1.6
+-1.3937318	newest	-1.6
+-1.3937318	most	-1.6
+-1.3937318	recent	-1.6
+-1.3937318	renew	-1.6
+-1.3937318	renewal	-1.6
+-1.3937318	have	-1.6
+-1.3937318	lattest	-1.6
+-1.3937318	newly	-1.6
+-1.3937318	released	-1.6
+-1.3937318	an	-1.6
+-1.3937318	find	-1.6
+-1.3937318	results	-1.6
+-1.3937318	locate	-1.6
+-1.3937318	seek	-1.6
+-1.3937318	download	-1.6
+-1.3937318	save	-1.6
+-1.3937318	copy	-1.6
+-1.3937318	this	-1.6
+-1.3937318	named	-1.6
+-1.3937318	called	-1.6
+-1.3937318	delete	-1.6
+-1.3937318	remove	-1.6
+-1.3937318	uninstall	-1.6
+-1.3937318	right	-1.6
+-1.3937318	quickly	-1.6
+-1.3937318	bluetooth	-1.6
+-1.3937318	wlan	-1.6
+-1.3937318	compass	-1.6
+-1.3937318	gmail	-1.6
+-1.3937318	spot	-1.6
+-1.3937318	carlcare	-1.6
+-1.3937318	bookmarks	-1.6
+-1.3937318	media	-1.6
+-1.3937318	contacts	-1.6
+-1.3937318	video	-1.6
+-1.3937318	chrome	-1.6
+-1.3937318	google	-1.6
+-1.3937318	calendar	-1.6
+-1.3937318	font	-1.6
+-1.3937318	messaging	-1.6
+-1.3937318	settings	-1.6
+-1.3937318	maps	-1.6
+-1.3937318	palm	-1.6
+-1.3937318	smart	-1.6
+-1.3937318	assist	-1.6
+-1.3937318	weather	-1.6
+-1.3937318	battery	-1.6
+-1.3937318	and	-1.6
+-1.3937318	vessel	-1.6
+-1.3937318	play	-1.6
+-1.3937318	pebble	-1.6
+-1.3937318	telephony	-1.6
+-1.3937318	tecno	-1.6
+-1.3937318	messages	-1.6
+-1.3937318	wallpapers	-1.6
+-1.3937318	cutout	-1.6
+-1.3937318	drive	-1.6
+-1.3937318	files	-1.6
+-1.3937318	notepad	-1.6
+-1.3937318	calculator	-1.6
+-1.3937318	storage	-1.6
+-1.3937318	translate	-1.6
+-1.3937318	services	-1.6
+-1.3937318	manual	-1.6
+-1.3937318	manager	-1.6
+-1.3937318	music	-1.6
+-1.3937318	corner	-1.6
+-1.3937318	xhide	-1.6
+-1.3937318	panel	-1.6
+-1.3937318	clock	-1.6
+-1.3937318	flashlight	-1.6
+-1.3937318	master	-1.6
+-1.3937318	youtube	-1.6
+-1.3937318	store	-1.6
+-1.3937318	broadcast	-1.6
+-1.3937318	player	-1.6
+-1.3937318	guide	-1.6
+-1.3937318	lab	-1.6
+-1.3937318	recorder	-1.6
+-1.3937318	service	-1.6
+-1.3937318	lets	-1.6
+-1.3937318	switch	-1.6
+-1.3937318	scanner	-1.6
+-1.3937318	hiparty	-1.6
+-1.3937318	xshare	-1.6
+-1.3937318	off	-1.6
+-1.3937318	close	-1.6
+-1.3937318	freezer	-1.6
+-1.3937318	file	-1.6
+-1.3937318	hi	-1.6
+-1.3937318	theme	-1.6
+-1.3937318	games	-1.6
+-1.3937318	ella	-1.6
+-1.3937318	palmpay	-1.6
+-1.3937318	phoenix	-1.6
+-1.3937318	scooper	-1.6
+-1.3937318	sim	-1.6
+-1.3937318	toolkit	-1.6
+-1.3937318	welife	-1.6
+-1.3937318	data	-1.6
+-1.3937318	connection	-1.6
+-1.3937318	aha	-1.6
+-1.3937318	browser	1.6
+-1.3937318	ai	1.6
+-1.3937318	gallery	1.6
+-1.3937318	folax	-1.6
+-1.3937318	instagram	1.6
+-1.3937318	xtheme	1.6
+-1.3937318	yoparty	1.6
+-1.3937318	wezone	1.6
+-1.3937318	xclub	1.6
+-1.3937318	xpark	1.6
+-1.3937318	phonecloner	1.6
+
+\2-grams:
+-0.5775585	search for	-1.5
+-0.5775585	open wifi	-1.5
+-0.5775585	<s> abeg	-1.5
+-0.5775585	abeg call	-1.5
+-0.5775585	kukuma call	-1.5
+-0.5775585	you call	-1.5
+-0.5775585	get call	-1.5
+-0.5775585	oya call	-1.5
+-0.5775585	dey call	-1.5
+-0.5775585	<s> kukuma	-1.5
+-0.5775585	me wan	-1.5
+-0.5775585	<s> me	-1.5
+-0.5775585	i wan	-1.5
+-0.5775585	wan phone	-1.5
+-0.5775585	kukuma reach	-1.5
+-0.5775585	wan reach	-1.5
+-0.5775585	you reach	-1.5
+-0.5775585	try reach	-1.5
+-0.5775585	kukuma contact	-1.5
+-0.5775585	abeg make	-1.5
+-0.5775585	make you	-1.5
+-0.5775585	wan get	-1.5
+-0.5775585	wan ring	-1.5
+-0.5775585	<s> fone	-1.5
+-0.5775585	wan fone	-1.5
+-0.5775585	oya fone	-1.5
+-0.5775585	<s> word	-1.5
+-0.5775585	<s> oya	-1.5
+-0.5775585	<s> dey	-1.5
+-0.5775585	abeg dey	-1.5
+-0.5775585	wan dey	-1.5
+-0.5775585	abeg press	-1.5
+-0.5775585	dey press	-1.5
+-0.5775585	abeg follow	-1.5
+-0.5775585	try follow	-1.5
+-0.5775585	follow up	-1.5
+-0.5775585	abeg try	-1.5
+-0.5775585	wan try	-1.5
+-0.5775585	dey try	-1.5
+-0.5775585	just try	-1.5
+-0.5775585	try yan	-1.5
+-0.5775585	yan with	-1.5
+-0.5775585	abeg dial	-1.5
+-0.5775585	abeg dial	-1.5
+-0.5775585	games </s>	0
+-0.5775585	ella </s>	0
+-0.5775585	palmpay </s>	0
+-0.5775585	phoenix </s>	0
+-0.5775585	news </s>	0
+-0.5775585	toolkit </s>	0
+-0.5775585	welife </s>	0
+-0.5775585	off </s>	0
+-0.5775585	open aha	-1.5
+-0.5775585	on aha	-1.5
+-0.5775585	aha games	-1.5
+-0.5775585	open ella	-1.5
+-0.5775585	on ella	-1.5
+-0.5775585	open palmpay	-1.5
+-0.5775585	on palmpay	-1.5
+-0.5775585	open phoenix	-1.5
+-0.5775585	on phoenix	-1.5
+-0.5775585	open scooper	-1.5
+-0.5775585	on scooper	-1.5
+-0.5775585	scooper news	-1.5
+-0.5775585	open sim	-1.5
+-0.5775585	on sim	-1.5
+-0.5775585	sim toolkit	-1.5
+-0.5775585	open welife	-1.5
+-0.5775585	on welife	-1.5
+-0.5775585	the data	-1.5
+-0.5775585	off the	-1.5
+-0.5775585	data connection	-1.5
+-0.5775585	connection off	-1.5
+-0.5775585	open chrome	-1.5
+-0.5775585	theme </s>	0
+-0.5775585	youtube </s>	0
+-0.5775585	translate </s>	0
+-0.5775585	cutout </s>	0
+-0.5775585	storage </s>	0
+-0.5775585	pebble </s>	0
+-0.5775585	google </s>	0
+-0.5775585	service </s>	0
+-0.5775585	master </s>	0
+-0.5775585	calendar </s>	0
+-0.5775585	guide </s>	0
+-0.5775585	assist </s>	0
+-0.5775585	bookmarks </s>	0
+-0.5775585	manager </s>	0
+-0.5775585	player </s>	0
+-0.5775585	vessel </s>	0
+-0.5775585	store </s>	0
+-0.5775585	gmail </s>	0
+-0.5775585	xhide </s>	0
+-0.5775585	settings </s>	0
+-0.5775585	maps </s>	0
+-0.5775585	drive </s>	0
+-0.5775585	weather </s>	0
+-0.5775585	chrome </s>	0
+-0.5775585	carlcare </s>	0
+-0.5775585	services </s>	0
+-0.5775585	lab </s>	0
+-0.5775585	files </s>	0
+-0.5775585	recorder </s>	0
+-0.5775585	panel </s>	0
+-0.5775585	music </s>	0
+-0.5775585	spot </s>	0
+-0.5775585	compass </s>	0
+-0.5775585	clock </s>	0
+-0.5775585	calculator </s>	0
+-0.5775585	notepad </s>	0
+-0.5775585	wallpapers </s>	0
+-0.5775585	flashlight </s>	0
+-0.5775585	freezer </s>	0
+-0.5775585	switch </s>	0
+-0.5775585	scanner </s>	0
+-0.5775585	hiparty </s>	0
+-0.5775585	xshare </s>	0
+-0.5775585	call </s>	0
+-0.5775585	bluetooth </s>	0
+-0.5775585	wlan </s>	0
+-0.5775585	me </s>	0
+-0.5775585	please </s>	0
+-0.5775585	now </s>	0
+-0.5775585	number </s>	0
+-0.5775585	message </s>	0
+-0.5775585	plan </s>	0
+-0.5775585	changes </s>	0
+-0.5775585	text </s>	0
+-0.5775585	card </s>	0
+-0.5775585	one </s>	0
+-0.5775585	two </s>	0
+-0.5775585	three </s>	0
+-0.5775585	four </s>	0
+-0.5775585	five </s>	0
+-0.5775585	simcard </s>	0
+-0.5775585	app </s>	0
+-0.5775585	on </s>	0
+-0.5775585	us </s>	0
+-0.5775585	version </s>	0
+-0.5775585	quickly </s>	0
+-0.5775585	give a	-1.5
+-0.5775585	phone master	-1.5
+-0.5775585	calendar storage	-1.5
+-0.5775585	manual guide	-1.5
+-0.5775585	telephony assist	-1.5
+-0.5775585	font manager	-1.5
+-0.5775585	video player	-1.5
+-0.5775585	battery lab	-1.5
+-0.5775585	call recorder	-1.5
+-0.5775585	palm store	-1.5
+-0.5775585	smart panel	-1.5
+-0.5775585	youtube music	-1.5
+-0.5775585	tecno spot	-1.5
+-0.5775585	media storage	-1.5
+-0.5775585	file manager	-1.5
+-0.5775585	lets switch	-1.5
+-0.5775585	smart scanner	-1.5
+-0.5775585	on bluetooth	-1.5
+-0.5775585	on wlan	1.5
+-0.5775585	<s> call	-1.5
+-0.5775585	phone call	-1.5
+-0.5775585	please call	-1.5
+-0.5775585	now call	-1.5
+-0.5775585	just call	-1.5
+-0.5775585	wanna call	-1.5
+-0.5775585	<s> phone	-1.5
+-0.5775585	now phone	-1.5
+-0.5775585	just phone	-1.5
+-0.5775585	wanna phone	-1.5
+-0.5775585	a phone	-1.5
+-0.5775585	a call	-1.5
+-0.5775585	search phone	-1.5
+-0.5775585	mobile phone	-1.5
+-0.5775585	cell phone	-1.5
+-0.5775585	look for	-1.5
+-0.5775585	book for	-1.5
+-0.5775585	app for	-1.5
+-0.5775585	results for	-1.5
+-0.5775585	for me	-1.5
+-0.5775585	help me	-1.5
+-0.5775585	show me	-1.5
+-0.5775585	tell me	-1.5
+-0.5775585	let me	-1.5
+-0.5775585	<s> please	-1.5
+-0.5775585	you please	-1.5
+-0.5775585	card please	-1.5
+-0.5775585	one please	-1.5
+-0.5775585	two please	-1.5
+-0.5775585	three please	-1.5
+-0.5775585	four please	-1.5
+-0.5775585	five please	-1.5
+-0.5775585	simcard please	-1.5
+-0.5775585	app please	-1.5
+-0.5775585	<s> now	-1.5
+-0.5775585	message now	-1.5
+-0.5775585	text now	-1.5
+-0.5775585	card now	-1.5
+-0.5775585	one now	-1.5
+-0.5775585	two now	-1.5
+-0.5775585	three now	-1.5
+-0.5775585	four now	-1.5
+-0.5775585	five now	-1.5
+-0.5775585	simcard now	-1.5
+-0.5775585	right now	-1.5
+-0.5775585	<s> just	-1.5
+-0.5775585	<s> i	-1.5
+-0.5775585	i wanna	-1.5
+-0.5775585	<s> dail	-1.5
+-0.5775585	please dail	-1.5
+-0.5775585	now dail	-1.5
+-0.5775585	just dail	-1.5
+-0.5775585	wanna dail	-1.5
+-0.5775585	<s> contact	-1.5
+-0.5775585	me contact	-1.5
+-0.5775585	just contact	-1.5
+-0.5775585	wanna contact	-1.5
+-0.5775585	<s> reach	-1.5
+-0.5775585	please reach	-1.5
+-0.5775585	just reach	-1.5
+-0.5775585	wanna reach	-1.5
+-0.5775585	<s> get	-1.5
+-0.5775585	please get	-1.5
+-0.5775585	just get	-1.5
+-0.5775585	wanna get	-1.5
+-0.5775585	get in	-1.5
+-0.5775585	in touch	-1.5
+-0.5775585	touch with	-1.5
+-0.5775585	<s> make	-1.5
+-0.5775585	<s> give	-1.5
+-0.5775585	me make	-1.5
+-0.5775585	to make	-1.5
+-0.5775585	you make	-1.5
+-0.5775585	make a	-1.5
+-0.5775585	send a	-1.5
+-0.5775585	download a	-1.5
+-0.5775585	call to	-1.5
+-0.5775585	phone to	-1.5
+-0.5775585	you to	-1.5
+-0.5775585	like to	-1.5
+-0.5775585	want to	-1.5
+-0.5775585	message to	-1.5
+-0.5775585	text to	-1.5
+-0.5775585	<s> could	-1.5
+-0.5775585	could you	-1.5
+-0.5775585	can you	-1.5
+-0.5775585	like you	-1.5
+-0.5775585	need you	-1.5
+-0.5775585	<s> can	-1.5
+-0.5775585	<s> help	-1.5
+-0.5775585	please help	-1.5
+-0.5775585	you help	-1.5
+-0.5775585	<s> dial	-1.5
+-0.5775585	phone number	-1.5
+-0.5775585	telephone number	-1.5
+-0.5775585	<s> i'd	-1.5
+-0.5775585	i'd like	-1.5
+-0.5775585	i want	-1.5
+-0.5775585	<s> what	-1.5
+-0.5775585	what is	-1.5
+-0.5775585	<s> show	-1.5
+-0.5775585	please show	-1.5
+-0.5775585	now show	-1.5
+-0.5775585	just show	-1.5
+-0.5775585	wanna show	-1.5
+-0.5775585	<s> look	-1.5
+-0.5775585	wanna look	-1.5
+-0.5775585	look up	-1.5
+-0.5775585	open up	-1.5
+-0.5775585	<s> search	-1.5
+-0.5775585	please search	-1.5
+-0.5775585	wanna search	-1.5
+-0.5775585	to search	-1.5
+-0.5775585	phone book	-1.5
+-0.5775585	<s> tell	-1.5
+-0.5775585	please tell	-1.5
+-0.5775585	now tell	-1.5
+-0.5775585	just tell	-1.5
+-0.5775585	wanna tell	-1.5
+-0.5775585	<s> what's	-1.5
+-0.5775585	<s> let	-1.5
+-0.5775585	me know	-1.5
+-0.5775585	wanna know	-1.5
+-0.5775585	to know	-1.5
+-0.5775585	for the	-1.5
+-0.5775585	get the	-1.5
+-0.5775585	know the	-1.5
+-0.5775585	check the	-1.5
+-0.5775585	about the	-1.5
+-0.5775585	deliver the	-1.5
+-0.5775585	of the	-1.5
+-0.5775585	update the	-1.5
+-0.5775585	by the	-1.5
+-0.5775585	open the	-1.5
+-0.5775585	boot the	-1.5
+-0.5775585	launch the	-1.5
+-0.5775585	on the	-1.5
+-0.5775585	start the	-1.5
+-0.5775585	put the	-1.5
+-0.5775585	renew the	-1.5
+-0.5775585	have the	-1.5
+-0.5775585	find the	-1.5
+-0.5775585	seek the	-1.5
+-0.5775585	download the	-1.5
+-0.5775585	delete the	-1.5
+-0.5775585	remove the	-1.5
+-0.5775585	uninstall the	-1.5
+-0.5775585	<s> check	-1.5
+-0.5775585	please check	-1.5
+-0.5775585	now check	-1.5
+-0.5775585	just check	-1.5
+-0.5775585	wanna check	-1.5
+-0.5775585	<s> send	-1.5
+-0.5775585	please send	-1.5
+-0.5775585	just send	-1.5
+-0.5775585	wanna send	-1.5
+-0.5775585	a message	-1.5
+-0.5775585	the message	-1.5
+-0.5775585	my message	-1.5
+-0.5775585	text message	-1.5
+-0.5775585	about my	-1.5
+-0.5775585	<s> deliver	-1.5
+-0.5775585	to inform	-1.5
+-0.5775585	update of	-1.5
+-0.5775585	version of	-1.5
+-0.5775585	renewal of	-1.5
+-0.5775585	copy of	-1.5
+-0.5775585	the plan	-1.5
+-0.5775585	<s> update	-1.5
+-0.5775585	me update	-1.5
+-0.5775585	to update	-1.5
+-0.5775585	the update	-1.5
+-0.5775585	the changes	-1.5
+-0.5775585	<s> text	-1.5
+-0.5775585	a text	-1.5
+-0.5775585	the text	-1.5
+-0.5775585	my text	-1.5
+-0.5775585	now by	-1.5
+-0.5775585	message by	-1.5
+-0.5775585	by card	-1.5
+-0.5775585	first card	-1.5
+-0.5775585	second card	-1.5
+-0.5775585	third card	-1.5
+-0.5775585	fourth card	-1.5
+-0.5775585	fifth card	-1.5
+-0.5775585	card one	-1.5
+-0.5775585	simcard one	-1.5
+-0.5775585	card two	-1.5
+-0.5775585	simcard two	-1.5
+-0.5775585	card three	-1.5
+-0.5775585	simcard three	-1.5
+-0.5775585	card four	-1.5
+-0.5775585	simcard four	-1.5
+-0.5775585	card five	-1.5
+-0.5775585	simcard five	-1.5
+-0.5775585	by simcard	-1.5
+-0.5775585	first simcard	-1.5
+-0.5775585	second simcard	-1.5
+-0.5775585	third simcard	-1.5
+-0.5775585	fourth simcard	-1.5
+-0.5775585	fifth simcard	-1.5
+-0.5775585	the first	-1.5
+-0.5775585	by first	-1.5
+-0.5775585	the second	-1.5
+-0.5775585	by second	-1.5
+-0.5775585	the third	-1.5
+-0.5775585	by third	-1.5
+-0.5775585	the fourth	-1.5
+-0.5775585	by fourth	-1.5
+-0.5775585	the fifth	-1.5
+-0.5775585	by fifth	-1.5
+-0.5775585	<s> open	-1.5
+-0.5775585	wanna open	-1.5
+-0.5775585	help open	-1.5
+-0.5775585	the app	-1.5
+-0.5775585	social app	-1.5
+-0.5775585	gaming app	-1.5
+-0.5775585	news app	-1.5
+-0.5775585	shopping app	-1.5
+-0.5775585	entertainment app	-1.5
+-0.5775585	finance app	-1.5
+-0.5775585	life app	-1.5
+-0.5775585	tools app	-1.5
+-0.5775585	an app	-1.5
+-0.5775585	this app	-1.5
+-0.5775585	<s> boot	-1.5
+-0.5775585	<s> launch	-1.5
+-0.5775585	<s> turn	-1.5
+-0.5775585	me turn	-1.5
+-0.5775585	wanna turn	-1.5
+-0.5775585	turn on	-1.5
+-0.5775585	put on	-1.5
+-0.5775585	<s> start	-1.5
+-0.5775585	me start	-1.5
+-0.5775585	<s> put	-1.5
+-0.5775585	wanna put	-1.5
+-0.5775585	to put	-1.5
+-0.5775585	for us	-1.5
+-0.5775585	i need	-1.5
+-0.5775585	for social	-1.5
+-0.5775585	for gaming	-1.5
+-0.5775585	for news	-1.5
+-0.5775585	for shopping	-1.5
+-0.5775585	for entertainment	-1.5
+-0.5775585	for finance	-1.5
+-0.5775585	for life	-1.5
+-0.5775585	for tools	-1.5
+-0.5775585	open social	-1.5
+-0.5775585	open gaming	-1.5
+-0.5775585	open bluetooth	-1.5
+-0.5775585	open wlan	-1.5
+-0.5775585	open news	-1.5
+-0.5775585	open shopping	-1.5
+-0.5775585	open entertainment	-1.5
+-0.5775585	open finance	-1.5
+-0.5775585	open life	-1.5
+-0.5775585	open tools	-1.5
+-0.5775585	on social	-1.5
+-0.5775585	on gaming	-1.5
+-0.5775585	on news	-1.5
+-0.5775585	on shopping	-1.5
+-0.5775585	on entertainment	-1.5
+-0.5775585	on finance	-1.5
+-0.5775585	on life	-1.5
+-0.5775585	on tools	-1.5
+-0.5775585	find social	-1.5
+-0.5775585	find gaming	-1.5
+-0.5775585	find news	-1.5
+-0.5775585	find shopping	-1.5
+-0.5775585	find entertainment	-1.5
+-0.5775585	find finance	-1.5
+-0.5775585	find life	-1.5
+-0.5775585	find tools	-1.5
+-0.5775585	app version	-1.5
+-0.5775585	newest version	-1.5
+-0.5775585	recent version	-1.5
+-0.5775585	lattest version	-1.5
+-0.5775585	released version	-1.5
+-0.5775585	get newest	-1.5
+-0.5775585	get most	-1.5
+-0.5775585	most recent	-1.5
+-0.5775585	<s> renew	-1.5
+-0.5775585	wanna renew	-1.5
+-0.5775585	<s> renewal	-1.5
+-0.5775585	the renewal	-1.5
+-0.5775585	<s> have	-1.5
+-0.5775585	please have	-1.5
+-0.5775585	just have	-1.5
+-0.5775585	wanna have	-1.5
+-0.5775585	the lattest	-1.5
+-0.5775585	the newly	-1.5
+-0.5775585	newly released	-1.5
+-0.5775585	for an	-1.5
+-0.5775585	search an	-1.5
+-0.5775585	download an	-1.5
+-0.5775585	save an	-1.5
+-0.5775585	<s> find	-1.5
+-0.5775585	wanna find	-1.5
+-0.5775585	find results	-1.5
+-0.5775585	<s> locate	-1.5
+-0.5775585	<s> seek	-1.5
+-0.5775585	wanna seek	-1.5
+-0.5775585	<s> download	-1.5
+-0.5775585	me download	-1.5
+-0.5775585	wanna download	-1.5
+-0.5775585	<s> save	-1.5
+-0.5775585	a copy	-1.5
+-0.5775585	download this	-1.5
+-0.5775585	app named	-1.5
+-0.5775585	app called	-1.5
+-0.5775585	<s> delete	-1.5
+-0.5775585	me delete	-1.5
+-0.5775585	please delete	-1.5
+-0.5775585	wanna delete	-1.5
+-0.5775585	to delete	-1.5
+-0.5775585	<s> remove	-1.5
+-0.5775585	me remove	-1.5
+-0.5775585	wanna remove	-1.5
+-0.5775585	<s> uninstall	-1.5
+-0.5775585	please uninstall	-1.5
+-0.5775585	hi translate	1.5
+-0.5775585	google play	1.5
+-0.5775585	play store	1.5
+-0.5775585	play services	1.5
+-0.5775585	corner cutout	1.5
+-0.5775585	messaging storage	1.5
+-0.5775585	broadcast service	1.5
+-0.5775585	hi theme	1.5
+-0.5775585	open folax	-1.5
+-0.5775585	open instagram	1.5
+-0.5775585	open xtheme	1.5
+-0.5775585	open yoparty	1.5
+-0.5775585	open wezone	1.5
+-0.5775585	open xclub	1.5
+-0.5775585	open xpark	1.5
+-0.5775585	open phonecloner	1.5
+
+\3-grams:
+-0.4792529	for me </s>
+-0.4792529	card please </s>
+-0.4792529	one please </s>
+-0.4792529	two please </s>
+-0.4792529	three please </s>
+-0.4792529	four please </s>
+-0.4792529	five please </s>
+-0.4792529	simcard please </s>
+-0.4792529	app please </s>
+-0.4792529	message now </s>
+-0.4792529	text now </s>
+-0.4792529	card now </s>
+-0.4792529	one now </s>
+-0.4792529	two now </s>
+-0.4792529	three now </s>
+-0.4792529	on bluetooth </s>
+-0.4792529	on wlan </s>
+-0.4792529	four now </s>
+-0.4792529	five now </s>
+-0.4792529	simcard now </s>
+-0.4792529	right now </s>
+-0.4792529	phone number </s>
+-0.4792529	telephone number </s>
+-0.4792529	a message </s>
+-0.4792529	my message </s>
+-0.4792529	the plan </s>
+-0.4792529	the changes </s>
+-0.4792529	a text </s>
+-0.4792529	my text </s>
+-0.4792529	first card </s>
+-0.4792529	second card </s>
+-0.4792529	third card </s>
+-0.4792529	fourth card </s>
+-0.4792529	fifth card </s>
+-0.4792529	card one </s>
+-0.4792529	simcard one </s>
+-0.4792529	card two </s>
+-0.4792529	simcard two </s>
+-0.4792529	card three </s>
+-0.4792529	simcard three </s>
+-0.4792529	card four </s>
+-0.4792529	simcard four </s>
+-0.4792529	card five </s>
+-0.4792529	simcard five </s>
+-0.4792529	first simcard </s>
+-0.4792529	second simcard </s>
+-0.4792529	third simcard </s>
+-0.4792529	fourth simcard </s>
+-0.4792529	fifth simcard </s>
+-0.4792529	the app </s>
+-0.4792529	social app </s>
+-0.4792529	gaming app </s>
+-0.4792529	news app </s>
+-0.4792529	shopping app </s>
+-0.4792529	entertainment app </s>
+-0.4792529	finance app </s>
+-0.4792529	life app </s>
+-0.4792529	tools app </s>
+-0.4792529	an app </s>
+-0.4792529	this app </s>
+-0.4792529	for us </s>
+-0.4792529	app version </s>
+-0.4792529	open bluetooth </s>
+-0.4792529	open wlan </s>
+-0.4792529	a phone call
+-0.4792529	<s> please call
+-0.4792529	<s> now call
+-0.4792529	<s> just call
+-0.4792529	i wanna call
+-0.4792529	<s> now phone
+-0.4792529	<s> just phone
+-0.4792529	i wanna phone
+-0.4792529	make a phone
+-0.4792529	<s> search phone
+-0.4792529	<s> look for
+-0.4792529	wanna look for
+-0.4792529	phone book for
+-0.4792529	the app for
+-0.4792529	an app for
+-0.4792529	find results for
+-0.4792529	app for me
+-0.4792529	<s> help me
+-0.4792529	please help me
+-0.4792529	you help me
+-0.4792529	<s> show me
+-0.4792529	please show me
+-0.4792529	now show me
+-0.4792529	just show me
+-0.4792529	wanna show me
+-0.4792529	<s> tell me
+-0.4792529	please tell me
+-0.4792529	now tell me
+-0.4792529	just tell me
+-0.4792529	<s> let me
+-0.4792529	could you please
+-0.4792529	first card please
+-0.4792529	second card please
+-0.4792529	third card please
+-0.4792529	fourth card please
+-0.4792529	fifth card please
+-0.4792529	card one please
+-0.4792529	simcard one please
+-0.4792529	card two please
+-0.4792529	simcard two please
+-0.4792529	card three please
+-0.4792529	simcard three please
+-0.4792529	card four please
+-0.4792529	simcard four please
+-0.4792529	card five please
+-0.4792529	simcard five please
+-0.4792529	first simcard please
+-0.4792529	second simcard please
+-0.4792529	third simcard please
+-0.4792529	fourth simcard please
+-0.4792529	fifth simcard please
+-0.4792529	the app please
+-0.4792529	a message now
+-0.4792529	a text now
+-0.4792529	first card now
+-0.4792529	second card now
+-0.4792529	third card now
+-0.4792529	fourth card now
+-0.4792529	fifth card now
+-0.4792529	card one now
+-0.4792529	simcard one now
+-0.4792529	card two now
+-0.4792529	simcard two now
+-0.4792529	card three now
+-0.4792529	simcard three now
+-0.4792529	card four now
+-0.4792529	simcard four now
+-0.4792529	card five now
+-0.4792529	simcard five now
+-0.4792529	first simcard now
+-0.4792529	second simcard now
+-0.4792529	third simcard now
+-0.4792529	fourth simcard now
+-0.4792529	fifth simcard now
+-0.4792529	<s> i wanna
+-0.4792529	<s> please dail
+-0.4792529	<s> now dail
+-0.4792529	<s> just dail
+-0.4792529	i wanna dail
+-0.4792529	help me contact
+-0.4792529	<s> just contact
+-0.4792529	i wanna contact
+-0.4792529	<s> please reach
+-0.4792529	<s> just reach
+-0.4792529	i wanna reach
+-0.4792529	<s> please get
+-0.4792529	<s> just get
+-0.4792529	i wanna get
+-0.4792529	<s> get in
+-0.4792529	please get in
+-0.4792529	just get in
+-0.4792529	wanna get in
+-0.4792529	get in touch
+-0.4792529	in touch with
+-0.4792529	help me make
+-0.4792529	like to make
+-0.4792529	want to make
+-0.4792529	could you make
+-0.4792529	<s> make a
+-0.4792529	me make a
+-0.4792529	to make a
+-0.4792529	you make a
+-0.4792529	<s> send a
+-0.4792529	<s> download a
+-0.4792529	phone call to
+-0.4792529	a phone to
+-0.4792529	like you to
+-0.4792529	need you to
+-0.4792529	i'd like to
+-0.4792529	i want to
+-0.4792529	a message to
+-0.4792529	the message to
+-0.4792529	text message to
+-0.4792529	a text to
+-0.4792529	the text to
+-0.4792529	<s> could you
+-0.4792529	<s> can you
+-0.4792529	i'd like you
+-0.4792529	i need you
+-0.4792529	you please help
+-0.4792529	can you help
+-0.4792529	mobile phone number
+-0.4792529	cell phone number
+-0.4792529	<s> i'd like
+-0.4792529	<s> i want
+-0.4792529	<s> what is
+-0.4792529	<s> please show
+-0.4792529	<s> now show
+-0.4792529	<s> just show
+-0.4792529	i wanna show
+-0.4792529	i wanna look
+-0.4792529	<s> look up
+-0.4792529	<s> open up
+-0.4792529	you please search
+-0.4792529	i wanna search
+-0.4792529	you to search
+-0.4792529	search phone book
+-0.4792529	<s> please tell
+-0.4792529	<s> now tell
+-0.4792529	<s> just tell
+-0.4792529	i wanna tell
+-0.4792529	let me know
+-0.4792529	i wanna know
+-0.4792529	like to know
+-0.4792529	want to know
+-0.4792529	look for the
+-0.4792529	<s> get the
+-0.4792529	me know the
+-0.4792529	wanna know the
+-0.4792529	<s> check the
+-0.4792529	please check the
+-0.4792529	now check the
+-0.4792529	just check the
+-0.4792529	wanna check the
+-0.4792529	<s> deliver the
+-0.4792529	version of the
+-0.4792529	<s> update the
+-0.4792529	me update the
+-0.4792529	now by the
+-0.4792529	message by the
+-0.4792529	<s> open the
+-0.4792529	help open the
+-0.4792529	<s> boot the
+-0.4792529	<s> launch the
+-0.4792529	turn on the
+-0.4792529	put on the
+-0.4792529	<s> start the
+-0.4792529	me start the
+-0.4792529	<s> put the
+-0.4792529	wanna put the
+-0.4792529	<s> renew the
+-0.4792529	<s> have the
+-0.4792529	please have the
+-0.4792529	just have the
+-0.4792529	wanna have the
+-0.4792529	<s> find the
+-0.4792529	wanna find the
+-0.4792529	<s> seek the
+-0.4792529	wanna seek the
+-0.4792529	<s> download the
+-0.4792529	me download the
+-0.4792529	wanna download the
+-0.4792529	<s> delete the
+-0.4792529	me delete the
+-0.4792529	please delete the
+-0.4792529	wanna delete the
+-0.4792529	to delete the
+-0.4792529	<s> remove the
+-0.4792529	<s> uninstall the
+-0.4792529	please uninstall the
+-0.4792529	<s> please check
+-0.4792529	<s> now check
+-0.4792529	<s> just check
+-0.4792529	i wanna check
+-0.4792529	<s> please send
+-0.4792529	<s> just send
+-0.4792529	i wanna send
+-0.4792529	send a message
+-0.4792529	deliver the message
+-0.4792529	about my message
+-0.4792529	a text message
+-0.4792529	message to inform
+-0.4792529	text to inform
+-0.4792529	the update of
+-0.4792529	newest version of
+-0.4792529	recent version of
+-0.4792529	lattest version of
+-0.4792529	released version of
+-0.4792529	<s> renewal of
+-0.4792529	the renewal of
+-0.4792529	a copy of
+-0.4792529	of the plan
+-0.4792529	help me update
+-0.4792529	message to update
+-0.4792529	text to update
+-0.4792529	have the update
+-0.4792529	about the changes
+-0.4792529	send a text
+-0.4792529	deliver the text
+-0.4792529	about my text
+-0.4792529	message now by
+-0.4792529	now by card
+-0.4792529	message by card
+-0.4792529	the first card
+-0.4792529	by first card
+-0.4792529	the second card
+-0.4792529	by second card
+-0.4792529	the third card
+-0.4792529	by third card
+-0.4792529	the fourth card
+-0.4792529	by fourth card
+-0.4792529	the fifth card
+-0.4792529	by fifth card
+-0.4792529	by card one
+-0.4792529	by simcard one
+-0.4792529	by card two
+-0.4792529	by simcard two
+-0.4792529	by card three
+-0.4792529	by simcard three
+-0.4792529	by card four
+-0.4792529	by simcard four
+-0.4792529	by card five
+-0.4792529	by simcard five
+-0.4792529	now by simcard
+-0.4792529	message by simcard
+-0.4792529	the first simcard
+-0.4792529	by first simcard
+-0.4792529	the second simcard
+-0.4792529	by second simcard
+-0.4792529	the third simcard
+-0.4792529	by third simcard
+-0.4792529	the fourth simcard
+-0.4792529	by fourth simcard
+-0.4792529	the fifth simcard
+-0.4792529	by fifth simcard
+-0.4792529	by the first
+-0.4792529	now by first
+-0.4792529	message by first
+-0.4792529	by the second
+-0.4792529	now by second
+-0.4792529	message by second
+-0.4792529	by the third
+-0.4792529	now by third
+-0.4792529	message by third
+-0.4792529	by the fourth
+-0.4792529	now by fourth
+-0.4792529	message by fourth
+-0.4792529	by the fifth
+-0.4792529	now by fifth
+-0.4792529	message by fifth
+-0.4792529	i wanna open
+-0.4792529	you help open
+-0.4792529	of the app
+-0.4792529	update the app
+-0.4792529	open the app
+-0.4792529	boot the app
+-0.4792529	launch the app
+-0.4792529	on the app
+-0.4792529	start the app
+-0.4792529	renew the app
+-0.4792529	download the app
+-0.4792529	delete the app
+-0.4792529	remove the app
+-0.4792529	uninstall the app
+-0.4792529	for social app
+-0.4792529	for gaming app
+-0.4792529	for news app
+-0.4792529	for shopping app
+-0.4792529	for entertainment app
+-0.4792529	for finance app
+-0.4792529	for life app
+-0.4792529	for tools app
+-0.4792529	open social app
+-0.4792529	open gaming app
+-0.4792529	open news app
+-0.4792529	open shopping app
+-0.4792529	open entertainment app
+-0.4792529	open finance app
+-0.4792529	open life app
+-0.4792529	open tools app
+-0.4792529	on social app
+-0.4792529	on gaming app
+-0.4792529	on news app
+-0.4792529	on shopping app
+-0.4792529	on entertainment app
+-0.4792529	on finance app
+-0.4792529	on life app
+-0.4792529	on tools app
+-0.4792529	find social app
+-0.4792529	find gaming app
+-0.4792529	find news app
+-0.4792529	find shopping app
+-0.4792529	find entertainment app
+-0.4792529	find finance app
+-0.4792529	find life app
+-0.4792529	find tools app
+-0.4792529	for an app
+-0.4792529	search an app
+-0.4792529	download an app
+-0.4792529	save an app
+-0.4792529	download this app
+-0.4792529	help me turn
+-0.4792529	i wanna turn
+-0.4792529	<s> turn on
+-0.4792529	me turn on
+-0.4792529	wanna turn on
+-0.4792529	<s> put on
+-0.4792529	to put on
+-0.4792529	help me start
+-0.4792529	i wanna put
+-0.4792529	you to put
+-0.4792529	app for us
+-0.4792529	<s> i need
+-0.4792529	results for social
+-0.4792529	results for gaming
+-0.4792529	results for news
+-0.4792529	results for shopping
+-0.4792529	results for entertainment
+-0.4792529	results for finance
+-0.4792529	results for life
+-0.4792529	results for tools
+-0.4792529	<s> open social
+-0.4792529	<s> open gaming
+-0.4792529	<s> open news
+-0.4792529	<s> open shopping
+-0.4792529	<s> open entertainment
+-0.4792529	<s> open finance
+-0.4792529	<s> open life
+-0.4792529	<s> open tools
+-0.4792529	turn on social
+-0.4792529	turn on gaming
+-0.4792529	turn on news
+-0.4792529	turn on shopping
+-0.4792529	turn on entertainment
+-0.4792529	turn on finance
+-0.4792529	turn on life
+-0.4792529	turn on tools
+-0.4792529	<s> find social
+-0.4792529	<s> find gaming
+-0.4792529	<s> find news
+-0.4792529	<s> find shopping
+-0.4792529	<s> find entertainment
+-0.4792529	<s> find finance
+-0.4792529	<s> find life
+-0.4792529	<s> find tools
+-0.4792529	the app version
+-0.4792529	get newest version
+-0.4792529	most recent version
+-0.4792529	the lattest version
+-0.4792529	newly released version
+-0.4792529	<s> get newest
+-0.4792529	<s> get most
+-0.4792529	get most recent
+-0.4792529	i wanna renew
+-0.4792529	have the renewal
+-0.4792529	<s> please have
+-0.4792529	<s> just have
+-0.4792529	i wanna have
+-0.4792529	get the lattest
+-0.4792529	update the newly
+-0.4792529	have the newly
+-0.4792529	the newly released
+-0.4792529	look for an
+-0.4792529	<s> search an
+-0.4792529	please search an
+-0.4792529	wanna search an
+-0.4792529	to search an
+-0.4792529	<s> download an
+-0.4792529	me download an
+-0.4792529	<s> save an
+-0.4792529	i wanna find
+-0.4792529	<s> find results
+-0.4792529	i wanna seek
+-0.4792529	help me download
+-0.4792529	let me download
+-0.4792529	i wanna download
+-0.4792529	download a copy
+-0.4792529	<s> download this
+-0.4792529	wanna download this
+-0.4792529	the app named
+-0.4792529	the app called
+-0.4792529	help me delete
+-0.4792529	let me delete
+-0.4792529	you please delete
+-0.4792529	i wanna delete
+-0.4792529	you to delete
+-0.4792529	let me remove
+-0.4792529	i wanna remove
+-0.4792529	you please uninstall
+-0.4792529	turn on bluetooth
+-0.4792529	turn on wlan
+-0.4792529	hi translate </s>
+-0.4792529	corner cutout </s>
+-0.4792529	messaging storage </s>
+-0.4792529	calendar storage </s>
+-0.4792529	media storage </s>
+-0.4792529	broadcast service </s>
+-0.4792529	phone master </s>
+-0.4792529	manual guide </s>
+-0.4792529	telephony assist </s>
+-0.4792529	video player </s>
+-0.4792529	play store </s>
+-0.4792529	palm store </s>
+-0.4792529	play services </s>
+-0.4792529	battery lab </s>
+-0.4792529	smart panel </s>
+-0.4792529	youtube music </s>
+-0.4792529	tecno spot </s>
+-0.4792529	lets switch </s>
+-0.4792529	smart scanner </s>
+-0.4792529	google play store
+-0.4792529	google play services
+-0.4792529	hi theme </s>
+-0.4792529	aha games </s>
+-0.4792529	open ella </s>
+-0.4792529	on ella </s>
+-0.4792529	open palmpay </s>
+-0.4792529	on palmpay </s>
+-0.4792529	open phoenix </s>
+-0.4792529	on phoenix </s>
+-0.4792529	scooper news </s>
+-0.4792529	sim toolkit </s>
+-0.4792529	open welife </s>
+-0.4792529	<s> open aha
+-0.4792529	turn on aha
+-0.4792529	open aha games
+-0.4792529	on aha games
+-0.4792529	open chrome </s>
+-0.4792529	give a call
+-0.4792529	give a phone
+-0.4792529	<s> abeg call
+-0.4792529	<s> kukuma call
+-0.4792529	make you call
+-0.4792529	wan get call
+-0.4792529	<s> oya call
+-0.4792529	<s> dey call
+-0.4792529	<s> me wan
+-0.4792529	<s> i wan
+-0.4792529	me wan phone
+-0.4792529	<s> kukuma reach
+-0.4792529	me wan reach
+-0.4792529	make you reach
+-0.4792529	abeg try reach
+-0.4792529	wan try reach
+-0.4792529	dey try reach
+-0.4792529	just try reach
+-0.4792529	<s> kukuma contact
+-0.4792529	<s> abeg make
+-0.4792529	<s> make you
+-0.4792529	abeg make you
+-0.4792529	me wan get
+-0.4792529	me wan ring
+-0.4792529	i wan fone
+-0.4792529	<s> oya fone
+-0.4792529	<s> abeg dey
+-0.4792529	i wan dey
+-0.4792529	<s> abeg press
+-0.4792529	wan dey press
+-0.4792529	<s> abeg follow
+-0.4792529	dey try follow
+-0.4792529	abeg follow up
+-0.4792529	try follow up
+-0.4792529	<s> abeg try
+-0.4792529	i wan try
+-0.4792529	<s> dey try
+-0.4792529	abeg dey try
+-0.4792529	wan dey try
+-0.4792529	<s> just try
+-0.4792529	dey try yan
+-0.4792529	try yan with
+-0.4792529	<s> abeg dial
+-0.4792529	<s> open wifi
+-0.4792529	<s> open folax
+-0.4792529	<s> open instagram
+-0.4792529	<s> open xtheme
+-0.4792529	<s> open yoparty
+-0.4792529	<s> open wezone
+-0.4792529	<s> open xclub
+-0.4792529	<s> open xpark
+-0.4792529	<s> open phonecloner
+
+\end\

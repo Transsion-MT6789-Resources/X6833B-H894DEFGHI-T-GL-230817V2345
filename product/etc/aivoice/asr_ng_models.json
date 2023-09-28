@@ -1,0 +1,12 @@
+{
+    "acoustic" : "asr_ng_acoustic.bin",
+    "fbank" : "asr_ng_fbank.bin",
+    "hwindow" : "asr_ng_hann_window.bin",
+    "lm" : "asr_ng_lm.bin",
+    "vocab" : "asr_ng_vocab.bin",
+    "vplm" : "asr_en_vp_lm.bin",
+    "hwbaselm" : "asr_en_baselm.bin",
+    "hwmoulds" : "asr_en_moulds.bin",
+    "hwlm" : "asr_en_newlm.bin",
+    "vad" : "vad.bin"
+}

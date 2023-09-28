@@ -1,0 +1,5 @@
+7767517
+3 3
+Input            embed_input              0 1 embed_input
+MemoryData       weight                   0 1 weight 0=512 1=149
+Gather           Gather_0                 2 1 weight embed_input sequences
