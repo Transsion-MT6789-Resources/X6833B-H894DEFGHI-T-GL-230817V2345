@@ -1,0 +1,11 @@
+on property:persist.sys.avatarpipe=1
+    start avatarpipe
+
+on property:persist.sys.avatarpipe=0
+    stop avatarpipe
+
+service avatarpipe /system/bin/avatarpipe
+    class core
+    disabled
+    user system
+    group system

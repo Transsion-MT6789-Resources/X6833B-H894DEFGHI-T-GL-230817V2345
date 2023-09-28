@@ -1,0 +1,12 @@
+on post-fs-data
+    mkdir /data/simo_fs 777 root root
+    mkdir /data/simo_fs/runspace 777 root root
+    mkdir /data/simo_fs/upgrade 777 root root
+    mkdir /data/simo_fs/upgrade/tmp 777 root root
+    chmod 0755 /system/bin/osi
+service osi /system/bin/osi
+    class main
+    user root
+    group root shell system
+    disabled
+    oneshot

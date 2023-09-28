@@ -1,0 +1,70 @@
+#!/system/bin/sh
+
+CMD=$1
+if [ -z "$CMD" ];then
+    echo "error, cmd is null."
+    exit
+fi
+
+PACKAGE_PROP="sys.trancmd.package"
+PARAM=$2
+if [ "$CMD" = "init" ];then
+    if [ -z "$PARAM" ];then
+        echo "error, package is null"
+        exit
+    fi
+    setprop "$PACKAGE_PROP" "$PARAM"
+    echo "init package $PARAM success."
+    exit
+fi
+
+PACKAGE=$(getprop "$PACKAGE_PROP")
+if [ -z "$PACKAGE" ];then
+    echo "please init package first."
+    exit
+fi
+
+if [ "$CMD" = "pkg" ];then
+    PACKAGE=$(getprop "$PACKAGE_PROP")
+    echo "$PACKAGE"
+    exit
+fi
+
+TRANCMD_READY=$(getprop "sys.trancmd.$PACKAGE")
+if [ "$TRANCMD_READY" != "ready" ];then
+    echo "$PACKAGE: TranCmd not ready, please try again later."
+    exit
+fi
+
+START_TIME=$(date +%s)
+
+RESULT_PROP="persist.sys.trancmd.result"
+setprop "$RESULT_PROP" ""
+
+PACKAGE=$(getprop "$PACKAGE_PROP")
+if [ -z "$PARAM" ];then
+    if [ "$PACKAGE" = "com.reallytek.wg" ];then
+        am broadcast -a com.mmi.helper.request -n "$PACKAGE"/com.reallytek.mmi.MmiTestReceiver --es type "$CMD" --ez fromCmd true > /dev/null
+    else
+        am broadcast -a com.trancmd.helper.request -n "$PACKAGE"/.cmd.TranCmdReceiver --es type "$CMD" --ez fromCmd true > /dev/null
+    fi
+else
+   if [ "$PACKAGE" = "com.reallytek.wg" ];then
+        am broadcast -a com.mmi.helper.request -n "$PACKAGE"/com.reallytek.mmi.MmiTestReceiver --es type "$CMD" --es value "$PARAM" --ez fromCmd true > /dev/null
+   else
+        am broadcast -a com.trancmd.helper.request -n "$PACKAGE"/.cmd.TranCmdReceiver --es type "$CMD" --es values "$PARAM" --ez fromCmd true > /dev/null
+   fi
+fi
+
+RESULT=$(getprop "$RESULT_PROP")
+while [ -z "$RESULT" ];do
+    RESULT=$(getprop "$RESULT_PROP")
+    END_TIME=$(date +%s)
+    CONSUME_TIME=$(expr "$END_TIME" - "$START_TIME")
+    if [ "$CONSUME_TIME" -ge 10 ];then
+        RESULT="$CMD timeout 10s. if just boot completed, please try again later."
+    fi
+done
+
+echo "$RESULT"
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Transsion Top Secret
+    Copyright (C) 2021 Transsion Inc.
+    @author lijia.chen
+    @version 1.0, 12/04/2021
+    @Note: 1.prebuilt path:/system/etc/thub_features_config.xml 2.status:enable/disable
+-->
+<features version="1.0">
+    <feature name="iconcrop" status="enable">
+        <item key="com.transsion.hubcore.iconcrop.ITranNonAdaptiveIconExt" value="com.transsion.hubcore.iconcrop.TranNonAdaptiveIconExtImpl"/>
+    </feature>
+</features>
