@@ -1,0 +1,3 @@
+#SPD: add for PQE CEQCEB-28 by linyu.zhu 20200515 start
+on property:sys.boot_completed=1
+    mkdir /data/pq 0775 system system encryption=Require
