@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- These resources are used to distinguish common scenarios and are preferentially used -->
+<WHITELIST>
+
+    <Package name="com.transsion.smartmessage">
+        <Activity name="com.android.messaging.ui.conversationlist.ConversationListActivity" >
+            <FPS value="Common">
+                <FLINGMODE value="FLING">
+                    <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_0" param1="1800000"></data>
+                    <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_1" param1="2000000"></data>
+                </FLINGMODE>
+            </FPS>
+        </Activity>
+    </Package>
+
+    <Package name="com.shopee.ph">
+        <Activity name="com.shopee.app.ui.home.HomeActivity" >
+            <FPS value="Common">
+                <FLINGMODE value="FLING">
+                    <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_0" param1="1800000"></data>
+                    <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_1" param1="2000000"></data>
+                </FLINGMODE>
+            </FPS>
+        </Activity>
+    </Package>
+
+    <Package name="com.instagram.android">
+        <Activity name="com.instagram.mainactivity.MainActivity" >
+            <FPS value="Common">
+                <FLINGMODE value="Common">
+                        <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_0" param1="1800000"></data>
+                        <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_1" param1="2000000"></data>
+                </FLINGMODE>
+            </FPS>
+        </Activity>
+    </Package>
+  
+    <Package name="com.facebook.katana">
+        <Activity name="Common" >
+            <FPS value="Common">
+                <FLINGMODE value="FLING">
+                    <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_0" param1="1800000"></data>
+                    <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_1" param1="2000000"></data>
+                </FLINGMODE>
+            </FPS>
+        </Activity>
+    </Package>
+
+    <Package name="com.twitter.android">
+        <Activity name="com.twitter.app.main.MainActivity" >
+            <FPS value="Common">
+                <FLINGMODE value="FLING">
+                    <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_0" param1="1800000"></data>
+                    <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_1" param1="2000000"></data>
+                </FLINGMODE>
+            </FPS>
+        </Activity>
+    </Package>
+
+   <Package name="com.ss.android.ugc.trill">
+        <Activity name="com.ss.android.ugc.aweme.splash.SplashActivity" >
+            <FPS value="Common">
+                <FLINGMODE value="FLING">
+                    <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_0" param1="1800000"></data>
+                    <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_1" param1="2000000"></data>
+                </FLINGMODE>
+            </FPS>
+        </Activity>
+    </Package>
+
+    <Package name="com.transsion.hilauncher">
+        <Activity name="com.android.quickstep.src.com.android.launcher3.uioverrides.QuickstepLauncher" >
+            <FPS value="Common">
+                <FLINGMODE value="MOVE">
+                    <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_0" param1="1800000"></data>
+                    <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_1" param1="2000000"></data>
+                </FLINGMODE>
+            </FPS>
+        </Activity>
+    </Package>
+    <Package name="com.transsion.XOSLauncher">
+        <Activity name="com.android.quickstep.src.com.android.launcher3.uioverrides.QuickstepLauncher" >
+            <FPS value="Common">
+                <FLINGMODE value="MOVE">
+                    <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_0" param1="1800000"></data>
+                    <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_1" param1="2000000"></data>
+                </FLINGMODE>
+            </FPS>
+        </Activity>
+    </Package>
+
+    <Package name="com.gallery20">
+        <Activity name="com.gallery20.HomeActivity" >
+            <FPS value="Common">
+                <FLINGMODE value="Common">
+                    <data cmd="PERF_RES_GPU_FREQ_MIN" param1="2"></data>
+                </FLINGMODE>
+            </FPS>
+        </Activity>
+        <Activity name="com.gallery20.app.album.AlbumVerticalActivity" >
+            <FPS value="Common">
+                <FLINGMODE value="Common">
+                    <data cmd="PERF_RES_GPU_FREQ_MIN" param1="2"></data>
+                </FLINGMODE>
+            </FPS>
+        </Activity>
+    </Package>
+
+    <Package name="com.google.android.apps.photos">
+        <Activity name="com.google.android.apps.photos.home.HomeActivity" >
+            <FPS value="Common">
+                <FLINGMODE value="Common">
+                    <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_1" param1="2000000"></data>
+                </FLINGMODE>
+            </FPS>
+        </Activity>
+        <Activity name="com.google.android.apps.photos.localmedia.ui.LocalPhotosActivity" >
+            <FPS value="Common">
+                <FLINGMODE value="Common">
+                    <data cmd="PERF_RES_CPUFREQ_MIN_CLUSTER_1" param1="2000000"></data>
+                </FLINGMODE>
+            </FPS>
+        </Activity>
+    </Package>
+
+</WHITELIST>

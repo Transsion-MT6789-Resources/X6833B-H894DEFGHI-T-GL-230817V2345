@@ -1,0 +1,5 @@
+on fs
+    # add for fpsensor Fingerprint
+    chmod 664 /dev/fpsensor
+    chown system root /dev/fpsensor
+

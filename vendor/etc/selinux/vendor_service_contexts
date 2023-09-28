@@ -1,0 +1,20 @@
+#line 1 "device/mediatek/sepolicy/bsp/non_plat/service_contexts"
+# ==============================================
+# MTK Policy Rule
+# ==============================================
+
+android.hardware.neuralnetworks.IDevice/mtk-gpu_shim    u:object_r:hal_neuralnetworks_service:s0
+android.hardware.neuralnetworks.IDevice/mtk-dsp_shim    u:object_r:hal_neuralnetworks_service:s0
+android.hardware.neuralnetworks.IDevice/mtk-mdla_shim   u:object_r:hal_neuralnetworks_service:s0
+android.hardware.neuralnetworks.IDevice/mtk-neuron_shim u:object_r:hal_neuralnetworks_service:s0
+#line 1 "device/mediatek/sepolicy/custom/module/uxdetector/non_plat/service_contexts"
+uxdetector                              u:object_r:transsion_uxdetector_service:s0
+#line 1 "device/mediatek/sepolicy/custom/module/uxdetectorrest/non_plat/service_contexts"
+uxdetectorrest                              u:object_r:transsion_uxdetectorrest_service:s0
+#line 1 "device/mediatek/sepolicy/custom/module/aicharge/non_plat/service_contexts"
+aicharge                              u:object_r:transsion_aicharge_service:s0
+#line 1 "device/mediatek/sepolicy/custom/module/fingerprint/goodix_opt_tee/non_plat/service_contexts"
+#com.goodix.FingerprintService    u:object_r:goodix_fingerprint_service:s0;
+#line 1 "device/mediatek/sepolicy/custom/module/aisupporter/non_plat/service_contexts"
+tran_ai    u:object_r:tran_ai_service:s0
+
